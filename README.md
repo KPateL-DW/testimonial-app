@@ -4,25 +4,38 @@ This project is a React web application that allows users to submit testimonials
 
 ## Setup Instructions
 
-1. Clone the repository:
+### Backend
+
+1. Navigate to the `backend` directory:
    ```
-   git clone https://github.com/githubnext/workspace-blank.git
-   cd workspace-blank
+   cd backend
    ```
 
-2. Install dependencies:
+2. Install backend dependencies:
    ```
    npm install
    ```
 
-3. Start the development server:
+3. Start the backend server:
    ```
    npm start
    ```
 
-4. Start the Express server:
+### Frontend
+
+1. Navigate to the `frontend` directory:
    ```
-   node server.js
+   cd frontend
+   ```
+
+2. Install frontend dependencies:
+   ```
+   npm install
+   ```
+
+3. Start the frontend development server:
+   ```
+   npm start
    ```
 
 ## Usage Instructions
