@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.container {
+  @apply mx-auto p-4;
+}
+
+.shadow-md {
+  @apply shadow-md;
+}
+
+.rounded {
+  @apply rounded;
+}
+
+.bg-white {
+  @apply bg-white;
+}
+
+.text-gray-700 {
+  @apply text-gray-700;
+}
+
+.text-yellow-500 {
+  @apply text-yellow-500;
+}
+
+.text-xl {
+  @apply text-xl;
+}
+
+.font-bold {
+  @apply font-bold;
+}
+
+.mb-4 {
+  @apply mb-4;
+}
+
+.max-w-lg {
+  @apply max-w-lg;
+}
+
+.py-2 {
+  @apply py-2;
+}
+
+.px-3 {
+  @apply px-3;
+}
+
+.leading-tight {
+  @apply leading-tight;
+}
+
+.focus\:outline-none {
+  @apply focus:outline-none;
+}
+
+.focus\:shadow-outline {
+  @apply focus:shadow-outline;
+}
+
+.bg-blue-500 {
+  @apply bg-blue-500;
+}
+
+.hover\:bg-blue-700 {
+  @apply hover:bg-blue-700;
+}
+
+.text-white {
+  @apply text-white;
+}
+
+.py-2 {
+  @apply py-2;
+}
+
+.px-4 {
+  @apply px-4;
+}
+
+.rounded {
+  @apply rounded;
+}
