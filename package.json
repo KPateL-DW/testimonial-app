@@ -16,7 +16,8 @@
     "express": "^4.17.1",
     "tailwindcss": "^2.2.19",
     "cors": "^2.8.5",
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.13.8"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.7",
